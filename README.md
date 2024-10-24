@@ -1,7 +1,7 @@
 # BoxTurtle V1.0
 BoxTurtle Automated Filament Changer (requires AFC-Klipper-Add-On (Alpha))
 
-![BT_Render](https://github.com/user-attachments/assets/0cb1d0a4-4cb1-4402-b5b0-2d5b9de30f7e)
+![BT_Render](https://github.com/user-attachments/assets/c06e961f-8d1d-41ae-9c80-036669ba2657)
 
 Box turtle is exactly what it appears to be. An open source AMS style filament changer for klipper machines. 
 Box turtle uses AFC-Klipper add on found [Here](https://github.com/ArmoredTurtle/AFC-Klipper-Add-On).
