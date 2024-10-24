@@ -25,3 +25,8 @@ BTT MMB CAN support for BoxTurtle will not be permanent as it is a bandaid solut
 # Wiring
 
 ![BoxTurtle_AFC-Lite_Pinout](https://github.com/user-attachments/assets/134796f6-8458-4a61-9967-1292963d7b4b)
+
+# Slicer configuration
+
+Orca Slicer is the prefered slicer for BoxTurtle use.
+![Screenshot (57)](https://github.com/user-attachments/assets/b0e93466-8c66-42dd-9105-e7e3ecdc08f2)
