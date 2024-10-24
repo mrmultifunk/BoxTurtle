@@ -20,7 +20,7 @@ BTT MMB CAN support for BoxTurtle will not be permanent as it is a bandaid solut
 
 # Manual (WIP)
 
-[Will update this as prgress is made](https://armoredturtle.xyz)
+[Will update this as progress is made](https://armoredturtle.xyz)
 
 # Wiring
 
