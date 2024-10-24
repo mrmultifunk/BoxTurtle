@@ -28,5 +28,21 @@ For precise PWM control of the brushed motors, BoxTurtle relies on a custom MCU,
 
 # Slicer configuration
 
-Orca Slicer is the preferred slicer for BoxTurtle use.
-![Screenshot (57)](https://github.com/user-attachments/assets/b0e93466-8c66-42dd-9105-e7e3ecdc08f2)
+[Orca Slicer](https://github.com/SoftFever/OrcaSlicer) is the preferred slicer for BoxTurtle use.
+## Printer Settings
+![Orca_Pinter_Settings](https://github.com/user-attachments/assets/1aa56051-dbbf-49a4-b818-368e00406b17)
+## Material Settings
+![Orca_Material_Settings](https://github.com/user-attachments/assets/a1569e5a-24c5-48f9-98fb-26465bf7c75c)
+## Ramming Settings
+![Orca_Matterial_Settings](https://github.com/user-attachments/assets/2744fb86-afae-4645-9215-3f8507558509)
+
+## Printer Machine G-Code
+```
+M104 S0 ; Stops OS from sending temp waits separately
+M140 S0
+START_PRINT EXTRUDER=[nozzle_temperature_initial_layer] BED=[bed_temperature_initial_layer_single] Chamber=[chamber_temperature] PRINT_MIN={first_layer_print_min[0]},{first_layer_print_min[1]} PRINT_MAX={first_layer_print_max[0]},{first_layer_print_max[1]} TOOL={initial_tool}
+```
+## Change Filament G-Code
+```
+T[next_extruder]
+```
