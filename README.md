@@ -12,7 +12,7 @@ If you appreciate the work we are doing, you can support us [Here](https://www.a
 
 # How it works
 
-BoxTurtle is an automated, lane-based filament changing system, also known by some as a "Type B MMU." Each lane is equipped with its own dedicated motor that moves filament to and from the tool head independently, eliminating the need for a selector cart or servos. Synchronization between the lane motor and the tool head occurs when the filament triggers a sensor located in or near the tool head.
+BoxTurtle is an automated, lane-based filament changing system, also known by some as a "Type B MMU." Each lane is equipped with its own dedicated motor that moves filament to and from the tool head independently, eliminating the need for a selector cart or servos. Synchronization between the lane motor and the tool head occurs when the filament triggers a [sensor](https://github.com/ArmoredTurtle/Filatector) located in or near the tool head.
 
 To accommodate any differences in rotation distance between the extruder in the tool head and the lane motors, BoxTurtle uses a toolhead buffer, such as the [belay by annex engineering](https://github.com/Annex-Engineering/Belay) or the [TurtleNeck](https://github.com/ArmoredTurtle/TurtleNeck) by ArmoredTurtle. This system is "bufferless," meaning no filament boxes (no spaghetti boxes) are required, similar to the AMS. Each lane features an independent respooler equipped with a brushed motor, which helps rewind the spool and assists the lane motor in feeding the filament smoothly. This prevents issues like spool tangling or "bucking."
 
