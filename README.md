@@ -17,3 +17,10 @@ This is a "bufferless" (no spaghetti boxes) system akin to the AMS. Each lane ha
 To enable pwm brushed motor control, BoxTurtle requires a "custom" mcu made by [Isik's Tech @xbst](https://github.com/xbst/AFC-Lite/) called AFC-lite.
 BTT MMB CAN support for BoxTurtle will not be permanent as it is a bandaid solution for testing BoxTurtle on a broader scale more quickly. 
 
+# Manual (WIP)
+
+[Will update this as prgress is made](https://armoredturtle.xyz)
+
+# Wiring
+
+![BoxTurtle_AFC-Lite_Pinout](https://github.com/user-attachments/assets/134796f6-8458-4a61-9967-1292963d7b4b)
