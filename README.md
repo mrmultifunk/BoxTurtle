@@ -40,7 +40,7 @@ For precise PWM control of the brushed motors, BoxTurtle relies on a custom MCU,
 ```
 M104 S0 ; Stops OS from sending temp waits separately
 M140 S0
-START_PRINT EXTRUDER=[nozzle_temperature_initial_layer] BED=[bed_temperature_initial_layer_single] Chamber=[chamber_temperature] PRINT_MIN={first_layer_print_min[0]},{first_layer_print_min[1]} PRINT_MAX={first_layer_print_max[0]},{first_layer_print_max[1]} TOOL={initial_tool}
+PRINT_START EXTRUDER=[nozzle_temperature_initial_layer] BED=[bed_temperature_initial_layer_single] Chamber=[chamber_temperature] PRINT_MIN={first_layer_print_min[0]},{first_layer_print_min[1]} PRINT_MAX={first_layer_print_max[0]},{first_layer_print_max[1]} TOOL={initial_tool}
 ```
 ## Change Filament G-Code
 ```
