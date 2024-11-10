@@ -53,20 +53,20 @@ While BoxTurtle can be mostly self-sourced, some vendors offer partial or full B
 US:
 - [DLLPDF](https://dllpdf.com) sells a [BoxTurtle frame kit](http://dllpdf.com/box-turtle-frame)
 - [Isik's Tech](https://store.isiks.tech/) has BOM parts, including full kits [here](https://store.isiks.tech/collections/box-turtle-parts). Isik's Tech also ships internationally.
-- [Fabreeko](https://www.fabreeko.com/products/box-turtle?_pos=4&_psq=box&_ss=e&_v=1.0).
-- [KB3D](https://kb-3d.com/store/boxturtle/2132-pre-order-ldo-box-turtle-automated-filament-changer-kit-v10.html).
-- [West3D](https://west3d.com/products/box-turtle-automated-filament-changer-multi-material-unit-by-armored-turtle).
+- [Fabreeko](https://www.fabreeko.com/products/box-turtle?_pos=4&_psq=box&_ss=e&_v=1.0)
+- [KB3D](https://kb-3d.com/store/boxturtle/2132-pre-order-ldo-box-turtle-automated-filament-changer-kit-v10.html)
+- [West3D](https://west3d.com/products/box-turtle-automated-filament-changer-multi-material-unit-by-armored-turtle)
   
 EU:
 - [Alchemy3D.de](https://alchemy3d.de) has a [BOM in a box kit](https://alchemy3d.de/products/boxturtle)
 - [Lab4450.com](https://lab4450.com) resells the [AFC-Lite MCU](https://lab4450.com/product/afc-lite-board/)
-- [3DO](https://3do.dk/3d-printer/2942-ldo-boxturtle-afc-kit-til-klipper-printere-forudbestilling.html).
+- [3DO](https://3do.dk/3d-printer/2942-ldo-boxturtle-afc-kit-til-klipper-printere-forudbestilling.html)
 
 UK:
-- [OneTwo3D.co.uk](https://www.onetwo3d.co.uk).
+- [OneTwo3D.co.uk](https://www.onetwo3d.co.uk)
   
 AU:
-- [DREMC](https://store.dremc.com.au/products/ldo-box-turtle-hardware-kit).
+- [DREMC](https://store.dremc.com.au/products/ldo-box-turtle-hardware-kit)
   
 ## Merch
 - BoxTurtle T-Shirt ($3 from each sale goes to support ArmoredTurtle) via [Cotton Bureau](https://cottonbureau.com/p/QKF5XC/shirt/colored-box-turtle#/26921844/tee-men-premium-lightweight-vintage-black-tri-blend-s)- also has sweatshirt/hoodie variants
